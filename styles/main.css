@@ -71,7 +71,7 @@ main .pricing a:last-child {
   font-weight: 700;
 }
 main button {
-  outline: none;
+  border: none;
   background-color: hsl(245, 75%, 52%);
   padding: 1.5rem;
   width: 100%;
